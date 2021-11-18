@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="896.0" fitWidth="1200.0">
+         <image>
+            <Image url="@Accel_OX.png" />
+         </image>
+      </ImageView>
+      <ImageView id="Left1" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left2" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@2.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left3" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@3.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left4" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@4.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left5" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@5.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left6" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@6.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left7" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@7.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="Left8" fitHeight="459.0" fitWidth="373.0" layoutX="424.0" layoutY="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@8.3.gif" />
+         </image>
+      </ImageView>
+      <ImageView id="CH11" fitHeight="137.0" fitWidth="541.0" layoutX="291.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH12" fitHeight="67.0" fitWidth="447.0" layoutX="344.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-2.PNG" />
+         </image>
+      </ImageView>
+      <Button id="True" layoutX="112.0" layoutY="40.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="171.0" text="True">
+         <font>
+            <Font name="Berlin Sans FB" size="36.0" />
+         </font>
+      </Button>
+      <Button id="False" layoutX="913.0" layoutY="40.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="171.0" text="False">
+         <font>
+            <Font name="Berlin Sans FB" size="36.0" />
+         </font>
+      </Button>
+      <ImageView id="CH13" fitHeight="85.0" fitWidth="413.0" layoutX="355.0" layoutY="72.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-3.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH14" fitHeight="110.0" fitWidth="246.0" layoutX="450.0" layoutY="54.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-4.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH15" fitHeight="96.0" fitWidth="516.0" layoutX="331.0" layoutY="54.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-5.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH16" fitHeight="199.0" fitWidth="469.0" layoutX="339.0" layoutY="68.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-6.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH17" fitHeight="256.0" fitWidth="463.0" layoutX="369.0" layoutY="79.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-7.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH18" fitHeight="183.0" fitWidth="463.0" layoutX="330.0" layoutY="59.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-8.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH19" fitHeight="104.0" fitWidth="293.0" layoutX="415.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-9.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH110" fitHeight="183.0" fitWidth="565.0" layoutX="291.0" layoutY="87.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH1-10.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH21" fitHeight="196.0" fitWidth="516.0" layoutX="331.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH22" fitHeight="168.0" fitWidth="436.0" layoutX="361.0" layoutY="78.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-2.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH23" fitHeight="321.0" fitWidth="584.0" layoutX="309.0" layoutY="59.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-3.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH24" fitHeight="213.0" fitWidth="436.0" layoutX="361.0" layoutY="61.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-4.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH25" fitHeight="150.0" fitWidth="200.0" layoutX="501.0" layoutY="59.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-5.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH26" fitHeight="385.0" fitWidth="436.0" layoutX="371.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-6.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH27" fitHeight="117.0" fitWidth="309.0" layoutX="446.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-7.PNG" />
+         </image></ImageView>
+      <ImageView id="CH28" fitHeight="215.0" fitWidth="541.0" layoutX="330.0" layoutY="53.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-8.PNG" />
+         </image></ImageView>
+      <ImageView id="CH29" fitHeight="200.0" fitWidth="469.0" layoutX="367.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-9.PNG" />
+         </image></ImageView>
+      <ImageView id="CH210" fitHeight="346.0" fitWidth="533.0" layoutX="323.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH2-10.PNG" />
+         </image></ImageView>
+      <ImageView id="CH31" fitHeight="199.0" fitWidth="356.0" layoutX="396.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH32" fitHeight="285.0" fitWidth="485.0" layoutX="337.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-2.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH33" fitHeight="185.0" fitWidth="463.0" layoutX="343.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-3.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH34" fitHeight="312.0" fitWidth="485.0" layoutX="358.0" layoutY="53.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-4.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH35" fitHeight="295.0" fitWidth="497.0" layoutX="331.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-5.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH36" fitHeight="96.0" fitWidth="413.0" layoutX="404.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-6.PNG" />
+         </image></ImageView>
+      <ImageView id="CH37" fitHeight="190.0" fitWidth="388.0" layoutX="381.0" layoutY="46.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-7.PNG" />
+         </image></ImageView>
+      <ImageView id="CH38" fitHeight="139.0" fitWidth="318.0" layoutX="420.0" layoutY="49.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-8.PNG" />
+         </image></ImageView>
+      <ImageView id="CH39" fitHeight="195.0" fitWidth="436.0" layoutX="393.0" layoutY="58.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-9.PNG" />
+         </image></ImageView>
+      <ImageView id="CH310" fitHeight="132.0" fitWidth="388.0" layoutX="368.0" layoutY="46.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH3-10.PNG" />
+         </image></ImageView>
+      <ImageView id="CH41" fitHeight="96.0" fitWidth="246.0" layoutX="467.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH42" fitHeight="150.0" fitWidth="200.0" layoutX="521.0" layoutY="58.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-2.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH43" fitHeight="112.0" fitWidth="318.0" layoutX="420.0" layoutY="56.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-3.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH44" fitHeight="132.0" fitWidth="279.0" layoutX="451.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-4.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH45" fitHeight="188.0" fitWidth="356.0" layoutX="433.0" layoutY="59.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-5.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH46" fitHeight="186.0" fitWidth="413.0" layoutX="395.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-6.PNG" />
+         </image></ImageView>
+      <ImageView id="CH47" fitHeight="117.0" fitWidth="257.0" layoutX="451.0" layoutY="35.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-7.PNG" />
+         </image></ImageView>
+      <ImageView id="CH48" fitHeight="174.0" fitWidth="332.0" layoutX="445.0" layoutY="58.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-8.PNG" />
+         </image></ImageView>
+      <ImageView id="CH49" fitHeight="96.0" fitWidth="413.0" layoutX="402.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-9.PNG" />
+         </image></ImageView>
+      <ImageView id="CH10" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="CH410" fitHeight="114.0" fitWidth="362.0" layoutX="421.0" layoutY="40.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH4-10.PNG" />
+         </image></ImageView>
+      <ImageView id="CH101" fitHeight="164.0" fitWidth="475.0" layoutX="352.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-1.PNG" />
+         </image></ImageView>
+      <ImageView id="CH102" fitHeight="118.0" fitWidth="413.0" layoutX="396.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-2.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH103" fitHeight="182.0" fitWidth="388.0" layoutX="417.0" layoutY="55.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-3.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH104" fitHeight="150.0" fitWidth="318.0" layoutX="452.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-4.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH105" fitHeight="150.0" fitWidth="356.0" layoutX="424.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-5.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH106" fitHeight="171.0" fitWidth="404.0" layoutX="419.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-6.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH107" fitHeight="197.0" fitWidth="485.0" layoutX="347.0" layoutY="68.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-7.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH108" fitHeight="158.0" fitWidth="382.0" layoutX="420.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-8.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH109" fitHeight="246.0" fitWidth="485.0" layoutX="369.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-9.PNG" />
+         </image>
+      </ImageView>
+      <ImageView id="CH1010" fitHeight="232.0" fitWidth="591.0" layoutX="305.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@CH10-10.PNG" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
